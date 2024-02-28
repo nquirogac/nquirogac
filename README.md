@@ -3,6 +3,8 @@
 <h2>About me </h2>
 
 <div >
+  <img src="https://github.com/nquirogac/Bootstrap/blob/gh-pages/assets/images/20230429_164610.jpg" align="right" width="300">
+
 
 <ul>
   <li><b>👤 Name: </b> Natalia Andrea Quiroga Castillo</li>
@@ -15,7 +17,7 @@
 <p>
   I'm Natalia Quiroga, current student of Computer Science at the National University of Colombia, studying the last semesters of the career. Member of the TuringBox community (Google developer Student Club) and one of the four GitHub Campus Experts in the country.I love creating a great experience for the clients I work with by going the extra mile to deliver quality results.
 </p>
-
+</div>
 <p><strong>📊 Skills 📊</strong></p> 
 <strong> React | R | Python | SQL | AWS | HTML | CSS | Next.js | JavaScript</strong>
 <br>
