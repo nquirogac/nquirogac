@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**nquirogac/nquirogac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me </h2>
 
-Here are some ideas to get you started:
+<div >
+  <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/happy-juanpa.gif" align="right" width="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><b>👤 Name: </b> Natalia Andrea Quiroga Castillo</li>
+  <li><b>😄 Pronouns:</b>  She/Her</li>
+  <li><b>📍 Location:</b> Bogota 🇨🇴</li>
+  <li><b>💼 Job: Frontend Deveveloper at Universidad Nacional De Colombia
+  <li><b>📣 Languages:</b> English & Spanish</li>
+</ul>
